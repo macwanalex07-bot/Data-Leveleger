@@ -1,4 +1,4 @@
-# 📊 Data Level Ledger – Power BI Project
+# 📊 Data Leveleger – Power BI Project
 
 ## 📌 Project Overview
 
